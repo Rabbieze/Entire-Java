@@ -1,0 +1,19 @@
+===========RECEIPT===========
+Name: Suleman hanif
+Age: 22
+Gender: Male
+Order Number: 1
+
+
+1 Beef Burger			Rs. 250.0
+
+1 Tea				Rs. 30.0
+
+
+No discount
+
+No complementary item
+
+Total				Rs. 280.0
+
+Total				Rs. 465.0
